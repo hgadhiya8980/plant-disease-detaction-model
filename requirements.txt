@@ -1,0 +1,12 @@
+tensorflow==2.6.0
+Flask
+numpy
+scikit-learn
+matplotlib
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+pandas
+seaborn
